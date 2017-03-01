@@ -1,2 +1,3 @@
 # Mame Support Files
-Install Sound Samples for Mame2003 on Nes Classic
+Install bios_images_hmod
+bios_images_hmod contains:  mame2003 and mame2000 sound samples, hiscore, history, and cheat files.
