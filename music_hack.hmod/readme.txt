@@ -1,0 +1,1 @@
+This module makes "Pac-Man Fever" play as the background music on the NES Classic Edition. :)
